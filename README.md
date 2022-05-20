@@ -14,7 +14,8 @@ My custom hook for [pre-commit](https://pre-commit.com/).
 
 ## Hooks
 
-- `validate-python-file-name` id
+### `validate-python-file-name`
+
   - Check whether python file path is valid or not. File path is valid when only includes lower characters and not contains `space` character and `hyphen` symbol.
   - Example :
     - `"src/python/command_line.py"` ✅
