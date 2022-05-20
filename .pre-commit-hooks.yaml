@@ -1,0 +1,4 @@
+- id: validate-python-file-name
+  name: validate python file name 
+  language: script
+  entry: ./scripts/validate_python_file_name
